@@ -4,3 +4,4 @@ Step 2: extract it
 Step 3: Click ctrl c to copy go into your project the FILE NOT UNITY THE FILE OK?? Go into assets then click ctrl v to paste
 Step 4: Open your unity project BOOM! Your done
 Thanks 5: TY FOR USING BLUECAM AKA BLUECAM TEAM
+Discord is https://discord.gg/wxyCNKkJHe
